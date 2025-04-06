@@ -1,0 +1,10 @@
+GPA9 Repo
+
+This is for CIS3534C  
+
+Files
+
+networkFileRW.py – the main Python file  
+equip_r.txt – data file  
+equip_s.txt – another data file  
+networkFileRWsol.py – my fixed version from GPA8
